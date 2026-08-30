@@ -1,0 +1,9 @@
+LEVEL Spicy_Space 50 Star_Space
+hazard Ouroboros_Worm 500 500 200
+start named Arrakis 500 500 50
+sat 750 500
+end named Ship 90 50 50
+
+SCORE = LOST
+Coverage: 0
+Money left: 50

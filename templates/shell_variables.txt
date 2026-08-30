@@ -1,0 +1,7 @@
+TITLE=game title
+DESCRIPTION=game description
+KEYWORDS=raylib, games, html5, C, videogames
+LOGO_LINK=https://www.raylib.com/common/raylib_logo.png
+URL=https://github.com/bobon4uto/raylib_web_template
+TWITTER_LINK=@BoBon4uto
+FAVICON=https://www.raylib.com/favicon.ico
